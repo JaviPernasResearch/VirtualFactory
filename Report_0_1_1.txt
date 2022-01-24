@@ -1,0 +1,14 @@
+On24/01/2022 0:00:00
+ProviderB
+Pedidos realizados: 10
+
+Customer
+Pedidos recibidos: 5
+Pedidos completados: 0
+Camiones enviados: 0
+
+ProviderA
+Pedidos realizados: 10
+
+Beneficio total:-6268
+
